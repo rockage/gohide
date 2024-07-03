@@ -1,0 +1,38 @@
+{
+  "K1": {
+    "cons": [
+      {
+        "code": 164,
+        "name": "Alt"
+      }
+    ],
+    "key": {
+      "code": 49,
+      "name": "1"
+    }
+  },
+  "K2": {
+    "cons": [
+      {
+        "code": 164,
+        "name": "Alt"
+      }
+    ],
+    "key": {
+      "code": 50,
+      "name": "2"
+    }
+  },
+  "K3": {
+    "cons": [
+      {
+        "code": 164,
+        "name": "Alt"
+      }
+    ],
+    "key": {
+      "code": 51,
+      "name": "3"
+    }
+  }
+}
